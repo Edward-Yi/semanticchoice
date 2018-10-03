@@ -1,0 +1,33 @@
+.ui.topmenu.inverted.menu{
+  background-image: url('https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/starfield-banner.jpg');
+}
+
+.img-back{
+  height: 370px;
+  width: 370px;
+  background: url('https://www.nasa.gov/sites/default/files/styles/2x2_cardfeed/public/thumbnails/image/smbhb_rotate_banner.gif') no-repeat;
+  float: left;
+  padding-right: 10px;
+}
+
+.osiris{
+  height: 370px;
+  width: 370px;
+  background: url('https://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/osiris-rex-deep-space-maneuver.png') no-repeat;
+  float: left;
+  padding-right: 20px;
+}
+
+.nasa-event{
+  height: 370px;
+  width: 370px;
+  background: #39719e;
+  float: left;
+  color: white;
+}
+
+.footer{
+  color: white;
+  float: left;
+}
+
